@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "express": "^4.19.2",
-    "mongoose": "^8.5.0"
+    "mongoose": "^8.5.0",
+    "swagger-ui-express": "^5.0.1"
   }
 }
